@@ -1,5 +1,5 @@
 # Responsive-Portfolio-CSS-and-Bootstrap-Homework
-Homework How to:
+Homework How I completed Assignment:
 -Added 3 HTML pages: contact, Index and Portfolio
 Added the same nav bar to each index and updated the info on the nav bar
 -Made the nav bar a hamburger style as the page gets smaller
