@@ -1,0 +1,13 @@
+body {
+    background-color:gray;
+}
+#portfolioimage {
+    max-width: 350px;
+    max-height: 350px;
+    padding: 5%;
+ 
+}
+
+.container {
+background-color:white;
+}
