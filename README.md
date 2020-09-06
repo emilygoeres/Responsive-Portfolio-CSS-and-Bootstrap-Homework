@@ -7,7 +7,7 @@ Homework How I completed Assignment:
 -On Contact html, made it so the form was underneath the nav bar
 -Added 5 images of myself to the portfolio page
 -Added links between all of the different pages
--added background color to all pages
+-added a styles sheet to add background color to all pages
 -Added a footer to all pages
 -Added color to the nav bars
 -Added breaks to the portfolio page so the pictures were in the middle of the header and footer.
