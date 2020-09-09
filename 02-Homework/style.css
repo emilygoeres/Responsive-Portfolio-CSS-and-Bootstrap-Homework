@@ -1,5 +1,6 @@
 body {
     background-color:gray;
+    
 }
 #portfolioimage {
     max-width: 350px;
@@ -10,4 +11,8 @@ body {
 
 .container {
 background-color:white;
+}
+
+a:visited {
+    color:gray;
 }

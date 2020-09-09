@@ -11,3 +11,6 @@ Homework How I completed Assignment:
 -Added a footer to all pages
 -Added color to the nav bars
 -Added breaks to the portfolio page so the pictures were in the middle of the header and footer.
+-On the contact me page, added a contact me link in the footer of the page. Click on it and it gives my contact info.
+-Added contact links to facebook and linkden to the footer of each page
+-Added a margin and padding to the image on my about me page
