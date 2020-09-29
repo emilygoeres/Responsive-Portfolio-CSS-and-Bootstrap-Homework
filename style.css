@@ -1,5 +1,5 @@
 body {
-    background-color:gray;
+    background-color: gray;
     
 }
 #portfolioimage {
@@ -10,11 +10,11 @@ body {
 }
 
 .container {
-background-color:white;
+background-color: #53565A;
 }
 
 a:visited {
-    color:white;
+    color:black;
 }
 footer {
     height: 5vh;
