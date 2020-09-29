@@ -21,7 +21,7 @@ This app gives a little background on Emily Goeres and all that she has accompli
 Link to Deployed App:
 https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
 
-![5 Day Planner](https://github.com/emilygoeres/5-day-planner-homework/blob/master/5%20Day%20Planner.PNG)
+![About Me](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/response1.png)
 
 ##### Emily, 
 Bootcamp,
