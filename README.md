@@ -15,6 +15,13 @@ Homework How I completed Assignment:
 -Added contact links to facebook and linkden to the footer of each page
 -Added a margin and padding to the image on my about me page
 
+What Does the App do?
+This app gives a little background on Emily Goeres and all that she has accomplished throughout her life along with this bootcamp.
+
+Link to Deployed App:
+https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
+
+<img src="response 1.PNG" alt="Picture of About Me Page">
 
 ##### Emily, 
 Bootcamp,
