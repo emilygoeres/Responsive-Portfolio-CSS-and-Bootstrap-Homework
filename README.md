@@ -26,6 +26,5 @@ https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
 ![Portfolio](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/response3.png)
 
 
-##### Emily, 
-Bootcamp,
+##### Emily Goeres, 
 ### Univeristy of Washington
