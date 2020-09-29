@@ -22,6 +22,8 @@ Link to Deployed App:
 https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
 
 <img src="response 1.PNG" alt="Picture of About Me Page">
+<img src="response 2.PNG" alt="Picture of About Me Page">
+<img src="response 3.PNG" alt="Picture of About Me Page">
 
 ##### Emily, 
 Bootcamp,
