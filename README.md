@@ -22,7 +22,7 @@ Link to Deployed App:
 https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
 
 ![About Me](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/images/master/response1.png)
-
+![5 Day Planner](https://github.com/emilygoeres/5-day-planner-homework/blob/master/5%20Day%20Planner.PNG)
 ##### Emily, 
 Bootcamp,
 ### Univeristy of Washington
