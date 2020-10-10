@@ -19,7 +19,7 @@ What Does the App do?
 This app gives a little background on Emily Goeres and all that she has accomplished throughout her life along with this bootcamp.
 
 Link to Deployed App:
-https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
+https://drive.google.com/file/d/1e4UJ70R7OO01zZsztlPTfNfyZ_xDzwuA/view
 
 ![About Me](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/aboutme.PNG)
 ![Portfolio](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/portfolio.PNG)
