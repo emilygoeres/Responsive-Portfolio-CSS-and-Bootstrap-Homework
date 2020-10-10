@@ -1,21 +1,27 @@
 body {
-    background-color: gray;
+    background-color:#303E48;
     
 }
 #portfolioimage {
     max-width: 350px;
     max-height: 350px;
-    padding: 5%;
+    padding: 6%;
  
 }
 
 .container {
-background-color: #53565A;
+background-color: #96A3AE;
 }
 
 a:visited {
     color:black;
 }
 footer {
-    height: 5vh;
+    height: 10vh;
+    background-color:#C4B000;
+}
+
+nav {
+    height: 10vh;
+    background-color:#C4B000;
 }
