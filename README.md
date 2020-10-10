@@ -21,8 +21,8 @@ This app gives a little background on Emily Goeres and all that she has accompli
 Link to Deployed App:
 https://emilygoeres.github.io/Responsive-Portfolio-CSS-and-Bootstrap-Homework/
 
-![About Me](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/response1.png)
-![Portfolio](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/response2.png)
+![About Me](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/aboutme.PNG)
+![Portfolio](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/portfolio.PNG)
 
 
 ##### Emily Goeres, 
