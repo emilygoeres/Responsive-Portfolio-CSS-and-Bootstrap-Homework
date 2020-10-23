@@ -1,5 +1,5 @@
 body {
-    background-color:#303E48;
+    background-color:#7f8e99;
     
 }
 #portfolioimage {
@@ -11,17 +11,42 @@ body {
 
 .container {
 background-color: #96A3AE;
+margin-top: 5%;
 }
 
 a:visited {
-    color:black;
+    color: white;
 }
 footer {
     height: 6vh;
     background-color:#C4B000;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
-
+ 
 nav {
     height: 6vh;
     background-color:#C4B000;
 }
+
+
+/* .navbar-toggler-icon {
+   background-color:#303E48;
+   height:4px;
+
+
+}
+
+.navbar-nav {
+    color: white;
+}
+
+.navbar-toggler {
+    
+         width: 35px;
+        height: 5px; 
+        background-color: black;
+        margin: 6px 0;
+      
+}  */
