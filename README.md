@@ -21,9 +21,9 @@ Portfolio
 
 ![image](https://github.com/emilygoeres/Responsive-Portfolio-CSS-and-Bootstrap-Homework/blob/master/portfolio.PNG)
 
-Contact
+<!-- Contact
 
-![image]()
+![image]() -->
 
 ## Technologies 
 
